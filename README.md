@@ -12,7 +12,9 @@ pip install -r requirements.txt
 ```
 
 ## Data
-Processed data and pretrained ResNet (50 and 152) can be downloaded [here](https://pan.baidu.com/s/1LrP56-fstinTh3cNUtTRKg). Put it in top-level folder.
+Processed data and pretrained ResNet (50 and 152) can be downloaded from the links below. Put it in top-level folder.
+#### [Baidu Disk](https://pan.baidu.com/s/1Fmc9tb9AYQMb54sBpS66Dw) password: 8eqb
+#### [PKU Disk](https://disk.pku.edu.cn:443/link/73C7A2151C29E2CF22676F858C7ED32C)
 
 ## Model
 #### Simple Track
