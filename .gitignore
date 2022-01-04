@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+data/
+outdir/
+wandb/
+*.pth
+*.jpg
+*.png
+*.tiff
+*.out
+venv/
+.idea/
